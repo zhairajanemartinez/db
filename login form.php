@@ -2,8 +2,8 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewpoint" content="width=device-width, initial-scaled=1.0"
-    <title>Log In</title>
+    <meta name="viewpoint" content="width=device-width, initial-scaled=1.0">
+    <title>LOG IN</title>
     <link rel="stylesheet" href="style.css">
 
 
